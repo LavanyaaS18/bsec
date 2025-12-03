@@ -2,4 +2,6 @@
 main()
 {
 printf("hello world");
+  sort();
+  search();
 }
